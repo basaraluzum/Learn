@@ -18,3 +18,8 @@ int main()
     printf("%d",r);
     return 0;
 }
+
+//oldu mu lan
+
+
+
